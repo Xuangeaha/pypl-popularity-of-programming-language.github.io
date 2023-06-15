@@ -1,0 +1,25 @@
+{
+  "name": "pypl-popularity-of-programming-language",
+  "version": "0.0.1",
+  "description": "PYPL PopularitY of Programming Language",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuangeaha/pypl-popularity-of-programming-language.github.io.git"
+  },
+  "keywords": [
+    "pypl"
+  ],
+  "author": "Xuangeaha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xuangeaha/pypl-popularity-of-programming-language.github.io/issues"
+  },
+  "homepage": "https://github.com/xuangeaha/pypl-popularity-of-programming-language.github.io#readme",
+  "devDependencies": {
+    "electron": "^25.1.1"
+  }
+}
